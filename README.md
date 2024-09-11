@@ -1,2 +1,2 @@
 Cliente grabador de audio remoto.
-Funciona con el servidor de audio.
+Funciona con el servidor de audio AudioClient.java.
